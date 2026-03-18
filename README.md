@@ -1,2 +1,1 @@
-spam ditection model using multinomial naive bayes
-
+tirth badhwa chutiya
